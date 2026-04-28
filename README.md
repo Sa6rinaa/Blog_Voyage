@@ -13,6 +13,15 @@ Azurea est une plateforme moderne de réservation de voyages. Ce projet transfor
 - **Backend** : PHP 8.x.
 - **Gestion de Session** : PHP Sessions pour maintenir l'utilisateur connecté.
 
+## 🚀 Comment lancer le projet
+
+### Option 1 : GitHub Codespaces (Recommandé - Sans installation)
+1. Cliquez sur le bouton vert **"<> Code"** en haut de ce dépôt.
+2. Allez dans l'onglet **Codespaces** et cliquez sur **"Create codespace on main"**.
+3. Une fois l'éditeur ouvert, ouvrez le terminal en bas et tapez :
+   ```bash
+   php -S 0.0.0.0:8000
+   
 ## 🚀 Installation locale
 
 ### Prérequis
